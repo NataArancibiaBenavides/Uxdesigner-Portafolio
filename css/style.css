@@ -24,7 +24,7 @@ Header
 }
 
 #Menures{
-    right: 70px;
+    right: 20px;
 }
 .navbar-default {
     background-color: #fff;
@@ -135,6 +135,7 @@ a.btn-banner:hover, a.btn-banner:focus
     background-color: #ddd;
     margin-bottom: 85px;
 }
+
 .jumbotron h1.small
 {
     line-height: 200px;
@@ -179,7 +180,7 @@ a.btn-banner:hover, a.btn-banner:focus
 }
 p.cta-sub-title
 {
-	margin-top: 80px;
+	margin-top: 60px;
     font-size: 15px;
 }
 .pg-titl-bdr-btm
@@ -605,7 +606,7 @@ h2.cta-title {
     font-size: 15px;
 }
 p.cta-sub-title {
-    font-size: 20px;
+    font-size: 10px;
 }
 .button-medium {
     font-size: 15px;
@@ -641,7 +642,7 @@ h1.cta-title {
     font-size: 30px;
 }
 p.cta-sub-title {
-    font-size: 20px;
+    font-size: 13px;
 }
 .button-medium {
     font-size: 15px;
