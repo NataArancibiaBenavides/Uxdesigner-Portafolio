@@ -421,6 +421,12 @@ margin-top: 5px;
   top: -30px;
 }
 
+#ali img{
+    height: 200px;
+    width: 250px;
+
+}
+
 /* Contact Form */
 .text-field-box {
     background: #fff;
